@@ -4,7 +4,7 @@ README 파일을 통해
 작성한 소스에 대한 간단한 소개글을 작성합니다
 
 ----------------------------------------------
-#간단한 마크다운 문법 연습
+# 간단한 마크다운 문법 연습
 1. 순서 있는 목록
 2. 순서 있는 목록
 
@@ -34,7 +34,14 @@ README 파일을 통해
   document.write("현재 시각은 " + display);
 </script>
 ```
-  
+
+<https://naver.com>
+
+[네이버 바로가기](https://naver.com)
+
+[바로가기 링크](https://naver.com, "네이버 링크")
+
+![이미지 삽입 연습](https://github.com/user-attachments/assets/c1998768-1810-4759-8e00-24bc1a3236c1)
 
 
 
