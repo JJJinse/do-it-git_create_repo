@@ -23,17 +23,17 @@ README 파일을 통해
 
 소스코드
 
-한 줄짜리 소스코드는 'function add{x, y} {return x +y;}' 처럼 사용
+한 줄짜리 소스코드는 `function add{x, y} {return x +y;}` 처럼 사용
 
 여러줄 소스코드 삽입은 
 
-"""javascript
+```javascript
 <script>
   var now = new Date();
   var display = new.toLocaleTimeString();
   document.write("현재 시각은 " + display);
 </script>
-"""
+```
   
 
 
