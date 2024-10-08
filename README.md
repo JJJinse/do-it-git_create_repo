@@ -41,7 +41,14 @@ README 파일을 통해
 
 [바로가기 링크](https://naver.com, "네이버 링크")
 
+- 웹 경로를 통한 README에 이미지 첨부
+
 ![이미지 삽입 연습](https://github.com/user-attachments/assets/c1998768-1810-4759-8e00-24bc1a3236c1)
+
+
+- 깃허브에 이미지 파일을 올려, README에 이미지 삽입하기
+
+![아기 고양이 사진](./images/pngtree-rules-of-biotex-cat-image_600076.jpg)
 
 
 
